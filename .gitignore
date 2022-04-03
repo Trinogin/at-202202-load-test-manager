@@ -1,0 +1,7 @@
+# IDE Files
+
+*.idea
+
+# TODO: uncomment graddle wrapper after project finish
+gradle
+.gradle
